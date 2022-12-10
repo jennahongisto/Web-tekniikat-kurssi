@@ -2,6 +2,10 @@
     color: yellow;
 }
 
+h1 {
+    font-family: "Sofia", serif;
+}
+
 .carousel-item img {
     margin: auto;
 }
